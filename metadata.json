@@ -1,0 +1,6 @@
+{
+  "name": "Excellence Cricket Academy",
+  "description": "Cricket academy website with details on coaching programs, schedules, gallery, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
